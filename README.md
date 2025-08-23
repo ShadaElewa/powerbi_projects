@@ -20,5 +20,5 @@ Click on a project title to view its detailed write-up, files, and screenshots.
 
 #### 📫 How to Reach Me
 
-*   **LinkedIn:** ([https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/shada-elewa-4ab056250/))
-*   **Email:**  [youremail@example.com](mailto:shadaelewa1@gmail.com)
+*   **LinkedIn:** ([[https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/shada-elewa-4ab056250/)]
+*   **Email:**  [shadaelewa1@gmail.com](mailto:shadaelewa1@gmail.com)
