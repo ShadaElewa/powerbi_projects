@@ -10,7 +10,7 @@ Each project is managed in its own dedicated branch.
 
 Click on a project title to view its detailed write-up, files, and screenshots.
 
-*   **Project 1: [Executive Sales Dashboard](./tree/sales-dashboard)**
+*   **Project 1: [Executive Sales Dashboard]([the_url](https://github.com/ShadaElewa/powerbi_projects/tree/sales-dashboard))**
     *   **Description:** An executive-level dashboard analyzing sales performance for a global retail company, focusing on KPIs, trends, and profitability.
     *   **Skills Demonstrated:** Data Modeling (Star Schema), DAX, Power Query, Report Design.
 
