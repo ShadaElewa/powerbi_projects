@@ -10,7 +10,7 @@ A high-level, one-page summary of sales performance designed for executive stake
 
 *A static view of the final dashboard design.*
 
-![Dashboard Screenshot](./sales-dashboard/dashboard-screenshot.png)
+![Dashboard Screenshot]([./sales-dashboard/dashboard-screenshot.png](https://github.com/ShadaElewa/powerbi_projects/blob/sales-dashboard/sales-dashboard/Screenshot%202025-08-24%20003858.png)
 
 ---
 
