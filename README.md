@@ -17,7 +17,8 @@ A high-level, one-page summary of sales performance designed for executive stake
 ### Dashboard Demo (GIF)
 
 *This GIF demonstrates the interactivity of the report, including slicer functionality and cross-filtering between visuals.*
-![Dashboard Demo](./sales-dashboard/dashboard-demo.gif)
+
+(https://github.com/ShadaElewa/powerbi_projects/blob/sales-dashboard/sales-dashboard/Recording%202025-08-26%20232228.gif)
 ---
 
 ### 1. The Business Request (Scenario)
