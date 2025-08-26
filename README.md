@@ -10,15 +10,13 @@ A high-level, one-page summary of sales performance designed for executive stake
 
 *A static view of the final dashboard design.*
 
-![Dashboard Screenshot](https://github.com/ShadaElewa/powerbi_projects/raw/sales-dashboard/sales-dashboard/Screenshot%202025-08-24%20003858.png)
+<img width="1306" height="722" alt="Screenshot 2025-08-24 003858" src="https://github.com/user-attachments/assets/cebc45db-28d9-460b-b04c-2af80be19a20" />
 
 ---
 
 ### Dashboard Demo (GIF)
 
 *This GIF demonstrates the interactivity of the report, including slicer functionality and cross-filtering between visuals.*
-
-![Dashboard Demo](./sales-dashboard/dashboard-demo.gif)
 
 ---
 
