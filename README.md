@@ -10,7 +10,7 @@ An interactive, two-page dashboard designed for an HR Director to understand the
 
 *This GIF demonstrates the key features: page navigation via buttons, cross-filtering, and dynamic visuals that allow for root cause analysis.*
 
-![Dashboard Demo](./hr-attrition-analysis/HRAttrition.gif)
+
 
 
 ---
@@ -19,13 +19,15 @@ An interactive, two-page dashboard designed for an HR Director to understand the
 
 *This page provides a high-level executive summary of the overall attrition problem.*
 
-![Overview Page Screenshot](./hr-attrition-analysis/hr-attrition-analysis/Page1_Attrition%20Overview.png)
+<img width="1267" height="712" alt="Page1_Attrition Overview" src="https://github.com/user-attachments/assets/0a6f0649-6a34-467e-943b-54ac334614a2" />
+
 
 ### Page 2: Deep Dive Analysis
 
 *This page allows for interactive root cause analysis, enabling the user to explore the factors that drive attrition.*
 
-![Deep Dive Page Screenshot](./hr-attrition-analysis/hr-attrition-analysis/page2_DeepDiveAnalysis.png)
+<img width="1252" height="712" alt="page2_DeepDiveAnalysis" src="https://github.com/user-attachments/assets/67e86c77-baae-42b2-a7ce-cdc607ff3ff2" />
+
 
 ---
 
