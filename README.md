@@ -14,7 +14,9 @@ Click on a project title to view its detailed write-up, files, and screenshots.
     *   **Description:** An executive-level dashboard analyzing sales performance for a global retail company, focusing on KPIs, trends, and profitability.
     *   **Skills Demonstrated:** Data Modeling (Star Schema), DAX, Power Query, Report Design.
 
-
+*   **Project 2: [HR Attrition Analysis Dashboard](./tree/hr-attrition-analysis)**
+    *   **Description:** A deep-dive analysis into the root causes of employee turnover, featuring a two-page, interactive report with guided navigation and dynamic visuals.
+    *   **Skills Demonstrated:** Advanced DAX (CALCULATE), Feature Engineering (Power Query), Data Modeling, Interactive Report Design (UX/UI).
 
 ---
 
