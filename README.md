@@ -1,24 +1,59 @@
-# My Power BI Portfolio
+# Project 2: HR Attrition Analysis Dashboard
 
-Welcome to my portfolio of Power BI projects! This repository showcases my skills in transforming raw data into actionable insights through compelling and efficient data models and visualizations.
+### [⬅️ Back to Main Portfolio Page](../..)
 
-Each project is managed in its own dedicated branch.
+An interactive, two-page dashboard designed for an HR Director to understand the key drivers of employee attrition and identify high-risk groups within the company.
 
 ---
 
-## Projects Index
+### Dashboard Demo (GIF)
 
-Click on a project title to view its detailed write-up, files, and screenshots.
+*This GIF demonstrates the key features: page navigation via buttons, cross-filtering, and dynamic visuals that allow for root cause analysis.*
 
-*   **Project 1: [Executive Sales Dashboard](https://github.com/ShadaElewa/powerbi_projects/tree/sales-dashboard)**
-    *   **Description:** An executive-level dashboard analyzing sales performance for a global retail company, focusing on KPIs, trends, and profitability.
-    *   **Skills Demonstrated:** Data Modeling (Star Schema), DAX, Power Query, Report Design.
-
+![Dashboard Demo](./hr-attrition-analysis/HRAttrition.gif)
 
 
 ---
 
-#### 📫 How to Reach Me
+### Page 1: Attrition Overview
 
-*   **LinkedIn:** [https://linkedin.com/in/your-profile-url](https://www.linkedin.com/in/shada-elewa-4ab056250/)
-*   **Email:**  [shadaelewa1@gmail.com](mailto:shadaelewa1@gmail.com)
+*This page provides a high-level executive summary of the overall attrition problem.*
+
+![Overview Page Screenshot](./hr-attrition-analysis/hr-attrition-analysis/Page1_Attrition%20Overview.png)
+
+### Page 2: Deep Dive Analysis
+
+*This page allows for interactive root cause analysis, enabling the user to explore the factors that drive attrition.*
+
+![Deep Dive Page Screenshot](./hr-attrition-analysis/hr-attrition-analysis/page2_DeepDiveAnalysis.png)
+
+---
+
+### 1. The Business Request (Scenario)
+
+The objective was to create a BI solution for an HR department concerned about rising employee turnover. The goal was to move beyond simple counts and build an analytical tool that could answer "Why are people leaving?" and "Who is most at risk?".
+
+---
+
+### 2. Technical Process & Skills Demonstrated
+
+*   **Data Modeling:** Transformed a single flat CSV file into a robust **Star Schema Data Model**. I created dedicated dimension tables (`dimDemographics`, `dimJobDetails`, `dimSurveyResults`) to improve performance and enable more complex analysis.
+*   **Data Transformation (Power Query):** Performed extensive data cleaning and feature engineering. A key step was creating new calculated columns for `Age Group` and `Salary Band` using conditional logic to turn continuous data into usable categories for analysis.
+*   **Advanced DAX:** Wrote over 10 DAX measures, moving beyond simple aggregations. The core of the analysis was powered by the **`CALCULATE`** function to create sophisticated measures like `Attrition Rate` and to analyze metrics for specific segments (e.g., `Avg Monthly Income (Leavers)`).
+*   **Interactive Visualization:** Designed a two-page report with a focus on user experience (UX). Implemented **navigation buttons and bookmarks** to create a guided story. The "Deep Dive" page was designed to be fully interactive, allowing users to cross-filter visuals to discover insights for themselves.
+
+---
+
+### 3. Key Findings & Actionable Insights
+
+*   **Primary Driver:** The analysis revealed that **low compensation** is the single largest driver of attrition. Employees in the lowest salary band (< $3,000) have a disproportionately high attrition rate.
+*   **High-Risk Profile:** The highest-risk employees are **young (20-29), in junior-level roles (Sales Reps, Lab Techs, HR), overworked (frequently work overtime), and have not been promoted in 1-2 years.**
+*   **Recommendation:** A two-pronged retention strategy is recommended: 1) A review of the compensation structure for entry-level roles. 2) The development of a clear career progression path for high-performing junior employees.
+
+---
+
+### 4. Tools Used
+
+*   Power BI Desktop
+*   DAX (including advanced `CALCULATE` functions)
+*   Power Query (M) (for ETL and Feature Engineering)
