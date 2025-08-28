@@ -11,6 +11,8 @@ An interactive, two-page dashboard designed for an HR Director to understand the
 *This GIF demonstrates the key features: page navigation via buttons, cross-filtering, and dynamic visuals that allow for root cause analysis.*
 
 
+https://github.com/user-attachments/assets/0a4935a2-a6ff-409c-9c01-2127749571d4
+
 
 
 ---
